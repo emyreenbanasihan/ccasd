@@ -1,5 +1,5 @@
 
-<div id="printableArea">
+<div id="cd">
 <div class="container">
 
 <div class="media-container-row">
@@ -198,7 +198,7 @@ OTHER ADJUSTMENT)</th>
 </div>
 </div>
 <div class="alignright">
-<input type="button" onclick="printDiv('printableArea')" value="Print"  class="btn btn-info btn-lg"/>
+<input type="button" onclick="printDiv('cd')" value="Print"  class="btn btn-info btn-lg"/>
 <div>
 <script>
 function printDiv(divName) {
