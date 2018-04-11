@@ -1,0 +1,15 @@
+summ
+SELECT SUM(CLASS_ATTENDED), COUNT(CLASS) from studentreport WHERE SECTION="A"
+SELECT SUM(area), COUNT(baranggay) as noB,COUNT(Farmers) as noF from tblresults WHERE baranggay="A" AND baranggay="B"
+
+
+---upland rice---
+banlic a
+kay-anlog
+majada in & out
+makiling
+punta
+san cristobal
+ulanggo
+
+
